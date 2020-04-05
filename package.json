@@ -1,0 +1,16 @@
+{
+  "name": "sloth-docs",
+  "version": "1.0.0",
+  "description": "The docs for SlothPress. Finally!",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slothpress/docs.git"
+  },
+  "author": "sixmonkey",
+  "homepage": "https://slothpress.org"
+}
