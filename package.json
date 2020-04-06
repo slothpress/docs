@@ -12,5 +12,8 @@
     "url": "git+https://github.com/slothpress/docs.git"
   },
   "author": "sixmonkey",
-  "homepage": "https://slothpress.org"
+  "homepage": "https://slothpress.org",
+  "devDependencies": {
+    "vuepress": "^1.4.0"
+  }
 }
