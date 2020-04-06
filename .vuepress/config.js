@@ -6,14 +6,14 @@ module.exports = {
         smoothScroll: true,
         logo: '/slothpress.svg',
         nav: [
-            { text: 'GitHub', link: 'https://github.com/slothpress' }
         ],
         sidebar: [
             '/',
             'guide/'
-        ]
+        ],
+        repo: 'slothpress/docs',
+        editLinks: true
     },
-
     head: [
         ['link', { rel: 'icon', href: `/logo.png` }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
