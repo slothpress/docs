@@ -3,6 +3,7 @@ module.exports = {
     description: 'WordPress for the lazy developer.',
     home: true,
     themeConfig: {
+        smoothScroll: true,
         logo: '/slothpress.svg',
         nav: [
             { text: 'GitHub', link: 'https://github.com/slothpress' }
