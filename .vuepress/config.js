@@ -9,7 +9,8 @@ module.exports = {
         ],
         sidebar: [
             '/',
-            'guide/'
+            'guide/',
+            'guide/INSTALLATION.md'
         ],
         repo: 'slothpress/docs',
         editLinks: true
